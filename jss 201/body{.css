@@ -1,0 +1,15 @@
+/* base styles  */
+html {
+    font-size: 67.5%;
+  }
+  body {
+    font-size: 1.6rem;
+    padding: 0;
+    margin: 0;
+    background-color: aquamarine;
+  }
+  
+  /* form   */
+  #form {
+    font-family: 'Times New Roman', Times, serif;
+  }
